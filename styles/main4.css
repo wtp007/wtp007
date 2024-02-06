@@ -21,7 +21,7 @@ header img {
     float: left;
 }
 .shadow {
-    text-shadow: 2px 2px 2px rgb(128, 0, 0);
+    text-shadow: 3px 3px 3px rgb(128, 0, 0);
 }
 main {
     clear: left;
