@@ -28,7 +28,7 @@ header h2 {
 }
 header img {
     float: left;
-    margin-left: 15px auto;
+    margin-left: 1.5em;
 }
 main nav{
     margin: 1.5em 2em 1.5em;
