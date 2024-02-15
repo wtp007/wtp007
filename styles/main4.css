@@ -15,7 +15,7 @@ body {
 }
 a:focus, a:hover {
     font-style: italic;
-    color: orangered;
+    color: red;
 }
 header h1 {
     font-size: 175%;
@@ -29,6 +29,13 @@ header h2 {
 }
 header img {
     float: left;
+}
+main nav{
+    margin: 1.5em 2em 1.5em;
+    border: 5px dashed red;
+    border-radius: 20px;
+    box-shadow: 3px 3px 4px 4px red;
+    padding: 1em;
 }
 .shadow {
     text-shadow: 3px 3px 3px rgb(128, 0, 0);
