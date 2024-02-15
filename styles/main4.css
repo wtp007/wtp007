@@ -24,12 +24,12 @@ header h1 {
 }
 header h2 {
     font-size: 130%;
-    color: red;
+    color: gray;
     text-indent: 30px;
 }
 header img {
     float: left;
-    margin: auto;
+    margin: 1.5em;
 }
 main nav{
     margin: 1.5em 2em 1.5em;
