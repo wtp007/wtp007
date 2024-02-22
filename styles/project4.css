@@ -18,6 +18,10 @@ a:focus, a:hover {
     border: 3px red;
     border-style: dotted solid;
 }
+header {
+    clear: both;
+    border-top: 2px solid red;
+}
 header h1 {
     font-size: 175%;
     color: black;
