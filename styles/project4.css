@@ -21,6 +21,7 @@ a:focus, a:hover {
 header {
     clear: both;
     border-bottom: 2px solid red;
+    margin-bottom: 1em;
 }
 header h1 {
     font-size: 175%;
@@ -35,7 +36,6 @@ header h2 {
 header img {
     float: left;
     margin-left: 2em;
-    margin-bottom: 1em;
 }
 
 .shadow {
