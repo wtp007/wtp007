@@ -68,3 +68,7 @@ aside {
     background-color: red;
     padding: 2em;
 }
+footer {
+    clear: both;
+    border-top: 2px solid red;
+}
