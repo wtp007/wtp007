@@ -90,6 +90,7 @@ p.fixed{
     right: 0;
     border: 3px solid black;
     background-color: red;
+    padding: 1em;
 
 }
 
