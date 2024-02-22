@@ -1,0 +1,52 @@
+html {
+    background-image: linear-gradient(to left, white, #ff0000 100%);
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    width: 90%;
+    background-color: white;
+    margin: 15px auto;
+    padding: 15px 1.5em;
+    border: 1px solid black;
+    border-radius: 25px;
+    box-shadow: 5px 5px 0 0;
+}
+a:focus, a:hover {
+    font-style: italic;
+    color: red;
+    border: 3px red;
+    border-style: dotted solid;
+}
+header h1 {
+    font-size: 175%;
+    color: black;
+    text-indent: 30px;
+}
+header h2 {
+    font-size: 130%;
+    color: black;
+    text-indent: 30px;
+}
+header img {
+    float: left;
+    margin-left: 2em;
+}
+
+.shadow {
+    text-shadow: 3px 3px 3px rgb(128, 0, 0);
+}
+
+article {
+    clear: left;
+    width: 70%;
+    float: left;
+    column-count: 2;
+    column-rule: 2px dotted black;
+    column-gap: 2em;
+    margin-left: 2em;
+}
+
+article h3 {
+    column-span: all;
+}
