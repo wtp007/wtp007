@@ -20,7 +20,7 @@ a:focus, a:hover {
 }
 header {
     clear: both;
-    border-top: 2px solid red;
+    border-bottom: 2px solid red;
 }
 header h1 {
     font-size: 175%;
