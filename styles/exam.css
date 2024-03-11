@@ -4,9 +4,8 @@ body {
 }
 
 header nav li{
-    padding: 2em;
-    width: 1em;
-    margin: 2px;
+    padding: 1em;
+    margin: 10px;
     background-color: blue;
 }
 
