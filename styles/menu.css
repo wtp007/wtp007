@@ -33,23 +33,17 @@ aside ul{
 
 article {
     width: 75%;
-    column-count: 3;
-    column-rule: 4px dotted blue;
-    column-gap: 2em;
 }
 
 article h1 {
     font-size: 120%;
     column-span: all;
     margin: 20px;
-    border-top: 2px solid blue;
     padding-top: 10px;
-    color: blue;
 
 }
 
 article h2 {
-    color: blue;
     margin-top: 30px;
 }
 
