@@ -13,7 +13,7 @@ header nav {
 article {
     width: 75%;
     column-count: 3;
-    column-rule: 2px dotted blue;
+    column-rule: 4px dotted blue;
     column-gap: 2em;
 }
 
