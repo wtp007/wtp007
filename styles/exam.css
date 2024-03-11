@@ -3,7 +3,7 @@ body {
     margin: 15px auto;
 }
 
-header nav ul{
+.navlist{
     padding: 15px;
     background-color: blue;
     color: white;
