@@ -5,6 +5,7 @@ body {
 
 header nav li{
     padding: 2em;
+    width: 1em;
     margin: 2px;
     background-color: blue;
 }
