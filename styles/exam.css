@@ -4,6 +4,7 @@ body {
 }
 
 nav ul li{
+    float: left;
     padding: 1em 2em;
     margin: 10px;
     background-color: blue;
