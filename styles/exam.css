@@ -63,9 +63,9 @@ article img {
 
 aside {
     width: 20%;
+    border-color: blue;
     float: right;
     background-color: aqua;
-    border: 2px blue;
     padding: 1.5em;
 }
 
