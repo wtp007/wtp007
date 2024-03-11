@@ -3,11 +3,9 @@ body {
     margin: 15px auto;
 }
 
-header nav {
-    background-color: blue;
+header nav ul{
     padding: 15px;
-    border-bottom: 2px solid blue;
-
+    background-color: blue;
 }
 
 article {
