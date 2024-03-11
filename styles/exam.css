@@ -21,6 +21,12 @@ article p::first-letter {
     color: black;
 }
 
+article img {
+    float: left;
+    margin-right: 1em;
+    margin-bottom: 1em;
+}
+
 aside {
     width: 20%;
     position: fixed;
