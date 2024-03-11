@@ -1,0 +1,49 @@
+body {
+    width: 95%;
+    margin: 15px auto;
+}
+
+.container {
+    display: flex;
+}
+
+article {
+    width: 75%;
+}
+
+aside {
+    width: 20%;
+    position: fixed;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+footer {
+    clear: both;
+    text-align: center;
+    margin-top: 30px;
+    border-top: 1px solid #ccc;
+    padding-top: 15px;
+}
+
+aside ul {
+    list-style-type: upper-roman;
+}
+
+aside ul li {
+    list-style-type: square;
+}
+
+article img {
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
