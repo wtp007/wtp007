@@ -28,8 +28,11 @@ nav ul a{
     text-decoration: none;
 }
 
-aside {
+aside.fixed {
     width: 20%;
+    position: fixed;
+    bottom: 35%;
+    right: 0;
     float: right;
     border: 2px solid blue;
     background-color: aqua;
