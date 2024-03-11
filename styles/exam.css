@@ -17,6 +17,7 @@ article {
 
 article h1 {
     column-span: all;
+    border-top: 2px solid blue;
 }
 
 article p::first-letter {
