@@ -6,6 +6,7 @@ body {
 header nav li{
     padding: 15px;
     margin: 2px;
+    background-color: blue;
 }
 
 article {
