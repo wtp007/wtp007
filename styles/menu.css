@@ -2,6 +2,7 @@
 nav ul li{
     display: block;
     float: left;
+    clear:right;
     background-color: blue;
     padding: 10px 2em;
     margin: 2px;
