@@ -10,6 +10,7 @@ body {
 article {
     width: 75%;
     column-count: 3;
+    column-rule: 2px dotted blue;
 }
 
 aside {
