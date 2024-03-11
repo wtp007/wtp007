@@ -3,11 +3,28 @@ body {
     margin: 15px auto;
 }
 
-nav ul li{
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #333;
+    overflow: hidden;
+}
+
+nav ul li {
     float: left;
-    padding: 1em 2em;
-    margin: 10px;
-    background-color: blue;
+}
+
+nav ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    background-color: #111;
 }
 
 article {
