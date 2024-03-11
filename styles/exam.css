@@ -13,6 +13,13 @@ article {
     column-rule: 2px dotted blue;
 }
 
+article p::first-letter {
+    font-size: 3em;
+    font-weight: bold;
+    font-style: italic;
+    color: black;
+}
+
 aside {
     width: 20%;
     position: fixed;
