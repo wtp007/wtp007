@@ -1,7 +1,3 @@
-nav{
-    border-bottom: 2px solid blue;
-}
-
 nav ul li{
     display: block;
     float: left;
@@ -30,6 +26,8 @@ article {
 
 article h1 {
     column-span: all;
+    border-top: 2px solid blue;
+    margin: 10px;
 
 }
 
