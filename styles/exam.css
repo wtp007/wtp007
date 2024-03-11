@@ -5,6 +5,11 @@ body {
 
 nav ul li{
     display: block;
+    background-color: blue;
+    text-align: center;
+    color: white;
+    padding: 10px 20px;
+    margin: 1px;
 }
 
 article {
