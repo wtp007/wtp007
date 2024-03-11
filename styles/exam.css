@@ -61,6 +61,8 @@ article img {
 }
 
 aside {
+    float: right;
+    position: fixed;
     display: block;
     background-color: aqua;
     border: solid blue;
