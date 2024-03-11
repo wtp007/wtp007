@@ -28,6 +28,23 @@ nav ul a{
     text-decoration: none;
 }
 
+aside {
+    width: 20%;
+    float: right;
+    border: 2px solid blue;
+    background-color: aqua;
+    padding: 1.5em;
+    position: fixed;
+}
+
+aside ol {
+    list-style-type: upper-roman;
+}
+
+aside ul{
+    list-style-type: square;
+}
+
 article {
     width: 75%;
     column-count: 3;
@@ -59,22 +76,6 @@ article img {
     float: left;
     margin-right: 10px;
     margin-bottom: 10px;
-}
-
-aside {
-    width: 20%;
-    float: right;
-    border: 2px solid blue;
-    background-color: aqua;
-    padding: 1.5em;
-}
-
-aside ol {
-    list-style-type: upper-roman;
-}
-
-aside ul{
-    list-style-type: square;
 }
 
 footer {
