@@ -3,7 +3,7 @@ body {
     margin: 15px auto;
 }
 
-header nav li{
+nav ul li{
     padding: 1em 2em;
     margin: 10px;
     background-color: blue;
@@ -34,8 +34,8 @@ article p::first-letter {
 
 article img {
     float: left;
-    margin-right: 1em;
-    margin-bottom: 1em;
+    margin-right: 10px;
+    margin-bottom: 10px;
 }
 
 aside {
@@ -57,10 +57,4 @@ aside ul {
 
 aside ul li {
     list-style-type: square;
-}
-
-article img {
-    float: left;
-    margin-right: 10px;
-    margin-bottom: 10px;
 }
