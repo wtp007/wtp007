@@ -1,3 +1,6 @@
+html {
+    background-image: linear-gradient(to left, white, rgb(77, 205, 255) 100%);
+}
 nav ul li{
     display: block;
     float: left;
