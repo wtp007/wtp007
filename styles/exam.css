@@ -7,7 +7,7 @@ nav ul li{
     display: block;
     float: left;
     background-color: blue;
-    padding-block: 10px 25px;
+    padding-block: 10px 2em;
     margin: 2px;
 }
 
