@@ -3,12 +3,14 @@ body {
     margin: 15px auto;
 }
 
+
 nav ul li{
     display: block;
     float: left;
     background-color: blue;
     padding: 10px 2em;
     margin: 2px;
+    border-bottom: 2px solid blue;
 }
 
 nav ul a{
@@ -26,7 +28,7 @@ article {
 
 article h1 {
     column-span: all;
-    border-top: 2px solid blue;
+
 }
 
 article h2 {
