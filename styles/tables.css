@@ -7,6 +7,6 @@ table.first {
     border: 2px solid black;
 }
 
-table.first th, table.first tb {
+table.first th, table.first td {
     border: 2px solid blue;
 }
