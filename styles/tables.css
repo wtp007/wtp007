@@ -33,7 +33,6 @@ table.second thead tr:first-child{
 }
 
 table.third th {
-    column-span: all;
     background-color: lightgreen;
 }
 
