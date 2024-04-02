@@ -32,7 +32,7 @@ table.second thead tr:first-child{
     border-bottom: 2px solid purple;
 }
 
-table.third th {
+table.third thead {
     background-color: lightgreen;
     padding: 0.7em;
     border-bottom: 2px solid orangered;
