@@ -46,6 +46,6 @@ table.third thead tr:first-child {
     border-bottom: 2px solid orangered;
 }
 
-table.third body {
+table.third body tr:last-child{
     border-bottom: 2px solid orangered;
 }
