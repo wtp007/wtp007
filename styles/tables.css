@@ -32,6 +32,10 @@ table.second thead tr:first-child{
     border-bottom: 2px solid purple;
 }
 
+table.third thead {
+    display: inline-block;
+}
+
 table.third th {
     background-color: lightgreen;
     padding: 0.7em;
