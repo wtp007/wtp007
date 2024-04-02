@@ -41,3 +41,7 @@ table.third thead {
     border-top: 2px solid orangered;
     border-bottom: 2px solid orangered;
 }
+
+table.third body {
+    border-bottom: 2px solid orangered;
+}
