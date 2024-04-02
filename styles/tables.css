@@ -39,6 +39,7 @@ table.third th {
 
 table.third th tr:first-child { 
     border-bottom: 2px solid orangered;
+    border-top: 2px solid orangered;
 }
 
 table.third th tr:last-child { 
