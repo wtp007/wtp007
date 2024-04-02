@@ -37,10 +37,10 @@ table.third th {
     padding: 0.7em;
 }
 
-table.third thead tr:first-child { 
+table.third th tr:first-child { 
     border-bottom: 2px solid orangered;
 }
 
-table.third thead tr:last-child { 
+table.third th tr:last-child { 
     border-bottom: 2px solid orangered;
 }
