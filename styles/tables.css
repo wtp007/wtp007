@@ -38,5 +38,6 @@ table.third {
 table.third thead {
     background-color: lightgreen;
     padding: 0.7em;
+    border-top: 2px solid orangered;
     border-bottom: 2px solid orangered;
 }
