@@ -34,6 +34,7 @@ table.second thead tr:first-child{
 
 table.third th {
     background-color: lightgreen;
+    display: inline-block;
 }
 
 table.third thead tr:first-child { 
