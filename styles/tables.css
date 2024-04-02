@@ -37,7 +37,7 @@ table.third {
 }
 table.third thead {
     background-color: lightgreen;
-    padding: 1em;
+    padding: 2em;
     border-top: 2px solid orangered;
     border-bottom: 2px solid orangered;
 }
