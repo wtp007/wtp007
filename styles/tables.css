@@ -33,7 +33,7 @@ table.second thead tr:first-child{
 }
 
 table.third thead {
-    display: inline-block;
+    display: block;
 }
 
 table.third th {
