@@ -43,4 +43,6 @@ textarea {
 #buttons input {
     width: 10em;
 }
-
+input[type="checkbox"] {
+    margin-right: 5px; 
+  }
