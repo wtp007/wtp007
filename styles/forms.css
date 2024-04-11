@@ -43,11 +43,3 @@ textarea {
 #buttons input {
     width: 10em;
 }
-label {
-    display: flex;
-    align-items: center;
-    flex-direction: row; /* Align items vertically */
-}
-input[type="checkbox"] {
-    margin-right: 5px; /* Add space between checkbox and text */
-}
