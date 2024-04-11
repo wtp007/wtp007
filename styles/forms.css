@@ -46,3 +46,10 @@ textarea {
 input[type="checkbox"] {
     margin-right: 5px; 
   }
+  label {
+    display: flex;
+    align-items: center; /* Align items vertically */
+  }
+  input[type="checkbox"] {
+    margin-right: 5px; /* Add space between checkbox and text */
+  }
