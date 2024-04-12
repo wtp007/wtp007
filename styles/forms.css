@@ -41,4 +41,6 @@ textarea {
 }
 #buttons input {
     width: 10em;
+    display: grid;
+    place-items: center;
 }
