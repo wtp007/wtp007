@@ -40,7 +40,5 @@ textarea {
     width: 35em;
 }
 #buttons input {
-    width: fit-content;
-    margin: auto;
-
+    width: 10em;
 }
