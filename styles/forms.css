@@ -40,6 +40,7 @@ textarea {
     width: 35em;
 }
 #buttons input {
-    width: 10em;
-    float: right;
+    width: fit-content;
+    margin: auto;
+
 }
