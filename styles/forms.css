@@ -9,7 +9,6 @@ legend {
     color: #931420;
     font-weight: bold;
     font-size: 85%;
-    margin-left:2em;
     margin-bottom: .5em;
 }
 label, input, select {
@@ -17,6 +16,7 @@ label, input, select {
 }
 label {
     float: left;
+    margin-left: 1em;
     width: 9em;
     text-align: right;
 }
