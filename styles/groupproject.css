@@ -6,30 +6,35 @@ header h1{
     font-size: 90%;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: gold;
+    text-decoration: underline;
 }
 
 header h2 {
     font-size: 90%;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: gold;
+    text-decoration: underline;
 }
 
 header h3 {
     font-size: 90%;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: gold;
+    text-decoration: underline;
 }
 
 header h4 {
     font-size: 90%;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: gold;
+    text-decoration: underline;
 }
 
 header h5 {
     font-size: 90%;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: gold;
+    text-decoration: underline;
 }
 
 p {
