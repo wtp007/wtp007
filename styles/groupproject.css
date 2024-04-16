@@ -41,4 +41,5 @@ p {
     font-size: 85%;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: goldenrod;
+    column-count: 2;
 }
