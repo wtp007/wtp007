@@ -16,7 +16,6 @@ label, input, select {
 }
 label {
     float: left;
-    margin-left: 1em;
     width: 9em;
     text-align: right;
 }
