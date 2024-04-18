@@ -9,11 +9,13 @@ header {
     text-align: center;
 }
 
-header img {
+.top_image {
+    position: relative;
     width: 100%;
+    text-align: center;
 }
 
-.container {
+.text-container {
     position: relative;
     text-align: center;
     color: white;
