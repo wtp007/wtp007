@@ -9,6 +9,10 @@ header {
     text-align: center;
 }
 
+header img {
+    width: 100%;
+}
+
 h1{
     font-size: 110%;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
