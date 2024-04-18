@@ -12,7 +12,7 @@ header {
 .top_image {
     position: relative;
     width: 100%;
-    text-align: center;
+    text-align: left;
 }
 
 .text-container {
@@ -21,10 +21,9 @@ header {
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%);
-    background-color: rgba(41, 41, 41, 0.8);
     padding: 0.5rem;
     text-align: left;
-    font-size: 200%;
+    font-size: 110%;
 }
 
 h1{
