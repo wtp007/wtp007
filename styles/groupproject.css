@@ -16,9 +16,15 @@ header {
 }
 
 .text-container {
-    position: relative;
-    text-align: center;
-    color: white;
+    position: absolute;
+    color: lightgray;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(41, 41, 41, 0.8);
+    padding: 0.5rem;
+    text-align: left;
+    font-size: 200%;
 }
 
 h1{
