@@ -22,7 +22,8 @@
 <script>
         const width = parseFloat(prompt("Enter width of a rectangle"));
         const height = parseFloat(prompt("Enter height of a rectangle"));
-        const html3 = (area = width * height);
-        
+        const html3 = `<p>Width: ${width}</p>
+                        <p>Height: ${height}</p>
+                        <p>Area: ${area.toFixed(2)}</p>`;
         document.write(html3);
 </script>
