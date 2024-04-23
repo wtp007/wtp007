@@ -34,7 +34,7 @@ header {
 
 article {
     clear: left;
-    width: 100%;
+    width: 90%;
     float: left;
     column-count: 2;
     column-rule: 2px dotted darkseagreen;
