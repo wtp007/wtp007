@@ -42,35 +42,7 @@ article {
     margin-left: 2em;
 }
 
-h1{
-    font-size: 110%;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: lightgray;
-    text-decoration: underline;
-}
-
-h2 {
-    font-size: 110%;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: lightgray;
-    text-decoration: underline;
-}
-
-h3 {
-    font-size: 110%;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: lightgray;
-    text-decoration: underline;
-}
-
-h4 {
-    font-size: 110%;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: lightgray;
-    text-decoration: underline;
-}
-
-h5 {
+article header {
     font-size: 110%;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: lightgray;
