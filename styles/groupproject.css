@@ -32,6 +32,16 @@ header {
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.699);
 }
 
+article {
+    clear: left;
+    width: 70%;
+    float: left;
+    column-count: 2;
+    column-rule: 2px dotted darkseagreen;
+    column-gap: 2em;
+    margin-left: 2em;
+}
+
 h1{
     font-size: 110%;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
