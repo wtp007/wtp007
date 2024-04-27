@@ -61,5 +61,10 @@ p {
     position: fixed; /* Fixed position to keep it at the bottom */
     bottom: 0; /* Align to the bottom */
     left: 0; /* Align to the left */
-    
+    z-index: 1000; /* Ensure it's on top of other content */
+}
+
+/* Add padding to create space for the model viewer */
+.model-viewer-padding {
+    height: 600px; /* Adjust to match the height of the model viewer */
 }
