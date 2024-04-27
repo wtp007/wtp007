@@ -28,6 +28,12 @@ header {
 
 main {
     padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.column {
+    width: 48%;
 }
 
 article {
