@@ -6,7 +6,6 @@ body {
 }
 
 header {
-    background-color: #00796b;
     padding: 20px 0;
 }
 
@@ -21,8 +20,9 @@ header {
 }
 
 .title {
-    color: #fff;
+    color: #333;
     margin-top: 10px;
+    text-align: center;
 }
 
 main {
