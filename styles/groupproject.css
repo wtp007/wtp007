@@ -52,3 +52,8 @@ p {
     font-size: 16px;
     line-height: 1.6;
 }
+
+.model-viewer-container {
+    text-align: center;
+    margin-top: 40px;
+}
