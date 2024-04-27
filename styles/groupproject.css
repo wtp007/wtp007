@@ -1,9 +1,9 @@
 body {
     font-family: Arial, sans-serif;
-    color: #fff; /* Adjust text color to contrast with the black background */
+    color: white; /* Adjust text color to contrast with the black background */
     margin: 0;
     padding: 0;
-    background-color: #000; /* Set the background color to black */
+    
 }
 
 header {
@@ -22,7 +22,7 @@ header {
 }
 
 .title {
-    color: #fff;
+    color: white;
     margin-top: 10px;
     text-align: center;
     font-size: 32px; /* Adjust the font size of the title */
@@ -44,7 +44,7 @@ article {
 
 h2 {
     font-size: 24px;
-    color: #00796b; /* Adjust heading color */
+    color: darkseagreen; /* Adjust heading color */
 }
 
 p {
