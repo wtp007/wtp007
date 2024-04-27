@@ -27,6 +27,7 @@ header {
     margin-top: 10px;
     text-align: center;
     font-size: 32px; 
+}
 
 main {
     padding: 20px;
@@ -60,4 +61,5 @@ p {
 }
 
 .model-viewer-padding {
-    height: 300px; 
+    height: 300px;
+}
