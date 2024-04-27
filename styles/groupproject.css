@@ -8,6 +8,7 @@ body {
 
 header {
     padding: 20px 0;
+    text-align: center;
 }
 
 .container {
@@ -24,6 +25,7 @@ header {
     color: #fff;
     margin-top: 10px;
     text-align: center;
+    font-size: 32px; /* Adjust the font size of the title */
 }
 
 main {
