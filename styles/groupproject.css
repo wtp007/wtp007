@@ -45,7 +45,7 @@ article {
 
 h2 {
     font-size: 24px;
-    color: darkseagreen; /* Adjust heading color */
+    color: darkseagreen; 
 }
 
 p {
@@ -55,13 +55,12 @@ p {
 
 .model-viewer-container {
     width: 100%;
+    background-color: #000; /* Adjust background color as needed */
     text-align: center;
     padding: 20px 0; /* Add padding for better visibility */
-    position: fixed; /* Fixed position to keep it at the bottom */
- 
 }
 
 /* Add padding to create space for the model viewer */
 .model-viewer-padding {
-    height: 600px; /* Adjust to match the height of the model viewer */
+    height: 300px; /* Adjust to match the height of the model viewer */
 }
