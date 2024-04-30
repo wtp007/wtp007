@@ -36,6 +36,7 @@ h2 {
     width: 40%;
     height: auto;
     display: block;
+    float: right;
 }
 
 p {
