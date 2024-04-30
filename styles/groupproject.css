@@ -7,7 +7,6 @@ body {
     color: white; 
     margin: 0;
     padding: 0;
-    background-color: black;
     
 }
 
@@ -59,7 +58,6 @@ p {
 
 .model-viewer-container {
     width: 100%;
-    background-color: #000;
     text-align: center;
     padding: 20px 0; 
 }
