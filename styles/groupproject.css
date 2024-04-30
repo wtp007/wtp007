@@ -39,6 +39,14 @@ main {
     justify-content: space-between;
 }
 
+
+article p::first-letter {
+    font-size: 3em;
+    font-weight: bold;
+    font-style: italic;
+    color: white;
+}
+
 .column {
     width: 48%;
 }
