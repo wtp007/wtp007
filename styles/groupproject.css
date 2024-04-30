@@ -74,3 +74,7 @@ p {
 .model-viewer-padding {
     height: 300px;
 }
+
+footer {
+    text-align: center;
+}
