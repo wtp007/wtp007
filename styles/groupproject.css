@@ -27,6 +27,7 @@ header {
 
 .title {
     color: rgb(211, 123, 23);
+    text-shadow: 2px 2px 2px rgb(0, 128, 75);
     margin-top: 10px;
     text-align: center;
     font-size: 32px; 
