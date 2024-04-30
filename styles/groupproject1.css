@@ -32,6 +32,12 @@ h2 {
     color: black; 
 }
 
+.image {
+    width: 40%;
+    height: auto;
+    display: block;
+}
+
 p {
     font-size: 16px;
     line-height: 1.6;
