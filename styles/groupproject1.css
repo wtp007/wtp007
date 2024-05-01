@@ -1,8 +1,3 @@
-
-To improve the alignment and flow of the images within the articles, you can adjust the CSS to ensure they are positioned consistently. Here's a revised version of the CSS with modifications to better align the images:
-
-css
-Copy code
 html {
     background-image: linear-gradient(white, #406930);
 }
@@ -29,7 +24,7 @@ body {
 
 article {
     margin-bottom: 40px;
-    overflow: hidden; /* Clear floats */
+    overflow: hidden; 
 }
 
 h2 {
@@ -41,7 +36,7 @@ h2 {
     width: 40%;
     height: auto;
     float: right;
-    margin-left: 20px; /* Add space between image and text */
+    margin-left: 20px; 
 }
 
 p {
