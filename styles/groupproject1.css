@@ -2,6 +2,10 @@ html {
     background-image: linear-gradient(white, #406930);
 }
 
+.headimage {
+    width: 100%;
+}
+
 header {
     padding: 20px 0;
     text-align: center;
